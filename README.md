@@ -5,5 +5,5 @@ Test yourself the Infinite Monkey Theorem
 
 The program generates a random word and searches it in the dictionary. If it is an english word it's added to a sentence. Sentences are printed to the console an a file.
 
-Used [dwyl's english-words](https://github.com/dwyl/english-words)
+Used [dwyl's english-words](https://github.com/dwyl/english-words). Add the file words_alpha.txt in the same directory.
 
